@@ -6,8 +6,8 @@
 package com.mycompany.heapsort;
 
 /**
- *
- * @author Elsultan
+ * O(nlogn)
+ * https://www.geeksforgeeks.org/java-program-for-heap-sort/
  */
 
 // Java program for implementation of Heap Sort
